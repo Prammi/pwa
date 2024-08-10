@@ -1,0 +1,45 @@
+{
+    "lang": "en-us",
+    "name": "PokeMon",
+    "short_name": "Poke APP",
+    "description": "Basic app to give all the details about the pokemon",
+    "start_url": "/index.html",
+    "scope":".",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "any",
+    "display": "standalone",
+    "dir":"ltr",
+        "icons":[
+        {
+            "src": "/src/images/icons/app-icon-48-48.png",
+            "type":"image/png",
+            "sizes":"48x48"
+          },
+          {
+            "src": "/src/images/icons/app-icon-96-96.png",
+            "type":"image/png",
+            "sizes":"96x96"
+          },
+          {
+            "src": "/src/images/icons/app-icon-72-72.png",
+            "type":"image/png",
+            "sizes":"72x72"
+          },
+          {
+            "src": "/src/images/icons/app-icon-144-144.png",
+            "type":"image/png",
+            "sizes":"144x144"
+          },
+          {
+            "src": "/src/images/icons/app-icon-192-192.png",
+            "type":"image/png",
+            "sizes":"192x192"
+          },
+          {
+            "src": "/src/images/icons/app-icon-512-512.png",
+            "type":"image/png",
+            "sizes":"512x512"
+          }
+    ]
+}
